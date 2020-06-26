@@ -1,2 +1,2 @@
-# hello-world
-thouwiltisthewholeofthelaw
+Print "hello,world!";
+print "i wanna learn to code!";
